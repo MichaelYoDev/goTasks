@@ -1,0 +1,11 @@
+# binaries
+goTasks
+
+# editor junk
+.DS_Store
+*.swp
+*.log
+
+# Go build cache
+bin/
+pkg/

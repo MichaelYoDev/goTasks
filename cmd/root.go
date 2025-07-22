@@ -8,7 +8,7 @@ import (
 )
 
 var rootCmd = &cobra.Command{
-	Use:   "Tasks",
+	Use:   "goTasks",
 	Short: "A simple CLI todo app",
 	Long:  `A command-line application to manage tasks using a CSV file.`,
 	Run: func(cmd *cobra.Command, args []string) {
