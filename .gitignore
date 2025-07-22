@@ -5,6 +5,7 @@ goTasks
 .DS_Store
 *.swp
 *.log
+.gitmodules
 
 # Go build cache
 bin/
