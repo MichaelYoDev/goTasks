@@ -1,0 +1,3 @@
+[submodule "demo/webDemo"]
+	path = demo/webDemo
+	url = https://github.com/MichaelYoDev/goTasks-web
