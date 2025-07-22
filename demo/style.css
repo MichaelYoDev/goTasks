@@ -1,0 +1,42 @@
+body {
+    background-color: #191724;
+    color: #e0def4;
+    font-family: monospace;
+    margin: 0;
+    padding: 20px;
+}
+
+#terminal {
+    max-width: 900px;
+    margin: auto;
+    background-color: #1f1d2e;
+    border-radius: 8px;
+    padding: 20px;
+    box-shadow: 0 0 10px #403d52;
+}
+
+#output {
+    white-space: pre-wrap;
+    min-height: 200px;
+    margin-bottom: 10px;
+}
+
+#prompt {
+    display: flex;
+    align-items: center;
+}
+
+#prompt span {
+    margin-right: 5px;
+    color: #9ccfd8;
+}
+
+#commandInput {
+    flex-grow: 1;
+    background: transparent;
+    border: none;
+    outline: none;
+    color: #e0def4;
+    font-family: monospace;
+    font-size: 1em;
+}
