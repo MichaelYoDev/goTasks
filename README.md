@@ -1,7 +1,6 @@
 # goTasks
 
-A command-line task manager written in Go. Tasks are stored in a local CSV file and manipulated via subcommands. Inspired by the Unix philosophy: simple, focused, and fast.
-
+A command-line task manager written in Go. Tasks are stored in a local CSV file and manipulated via subcommands.
 ## Features
     - Add tasks from the terminal
     - View active or all tasks
