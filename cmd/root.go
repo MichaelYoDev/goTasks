@@ -14,6 +14,9 @@ var rootCmd = &cobra.Command{
 	Run: func(cmd *cobra.Command, args []string) {
 		fmt.Println("Use 'goTasks add' to add a task")
 	},
+	CompletionOptions: cobra.CompletionOptions{
+		HiddenDefaultCmd: true, // hides cmd
+	},
 }
 
 func Execute() {
