@@ -1,5 +1,6 @@
 # goTasks
 
+![banner](imgs/goTasksBanner.png)
 A command-line task manager written in Go. Tasks are stored in a local CSV file and manipulated via subcommands.
 ## Features
     - Add tasks from the terminal
@@ -13,6 +14,8 @@ A command-line task manager written in Go. Tasks are stored in a local CSV file 
 ---
 
 ## Web Demo
+
+![Web Demo](imgs/webDemoImg.png)
 
 Try out `goTasks` directly in your browser:
 [https://michaelyodev.github.io/goTasks-web/](https://michaelyodev.github.io/goTasks-web/)
