@@ -84,5 +84,8 @@ ID,Description,CreatedAt,IsComplete
 ---
 
 ## Dependencies
-    - spf13/cobra: CLI framework
-	- mergestat/timediff: human-readable timestamps
+
+```
+spf13/cobra: CLI framework
+mergestat/timediff: human-readable timestamps
+```
